@@ -2,3 +2,7 @@
 .env
 .vscode
 .env.local
+faiss.index
+docstore.json
+package-lock.json
+pnpm-lock.yaml
